@@ -1,0 +1,54 @@
+C:\Users\HeLL\Desktop\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+C:\Users\HeLL\Desktop\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+C:\Users\HeLL\Desktop\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+C:\Users\HeLL\Desktop\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+C:\Users\HeLL\Desktop\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\HeLL\Desktop\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\HeLL\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\HeLL\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+C:\Users\HeLL\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\HeLL\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+C:\Users\HeLL\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+C:\Users\HeLL\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\HeLL\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\HeLL\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\HeLL\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
+E:\Технология программирования\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\Технология программирования\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+E:\Технология программирования\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Технология программирования\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+E:\Технология программирования\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+E:\Технология программирования\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Технология программирования\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+E:\Технология программирования\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+E:\Технология программирования\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\sheny\OneDrive\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\sheny\OneDrive\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+C:\Users\sheny\OneDrive\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\sheny\OneDrive\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+C:\Users\sheny\OneDrive\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+C:\Users\sheny\OneDrive\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\sheny\OneDrive\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\sheny\OneDrive\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\sheny\OneDrive\Desktop\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+C:\Users\sheny\OneDrive\Desktop\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+C:\Users\sheny\OneDrive\Desktop\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+C:\Users\sheny\OneDrive\Desktop\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+C:\Users\sheny\OneDrive\Desktop\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\sheny\OneDrive\Desktop\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\sheny\OneDrive\Desktop\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
+E:\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+E:\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+E:\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+E:\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+E:\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+E:\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+E:\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+E:\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+E:\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+E:\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+E:\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+E:\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
+E:\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
